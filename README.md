@@ -4,9 +4,9 @@
 ###### Jill asked me to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. The LendingClub dataset will be used for various mechine learning credit risk models and their performance will be evealuated.  
 
 # Results: 
-###### Using bulleted lists, describe the 
-- Deliverable 1 
-![Naive Random Oversampling](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/%20Naive%20Randome%20Oversampling.png)
+###### Write the results
+- Deliverable 1
+![Naive Random Oversampling](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/%20Naive%20Random%20Oversampling.png)
 ![SMOTE Oversampling](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/SMOTE%20Oversampling.png)
 - Deliverable 2 
 ![Cluster Centroid Undersample](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/Cluster%20Centroid%20Undersample.png)
