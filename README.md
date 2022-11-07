@@ -15,7 +15,7 @@
 ###### SMOTE Oversampling
 ![SMOTE Oversampling](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/SMOTE%20Oversampling.png)
 
-- Deliverable 
+- Deliverable 2
 ###### Cluster Centroid Undersample  
 ![Cluster Centroid Undersample](https://github.com/ramon0101alonso/Credit_Risk_Analysis/blob/main/Pictures/Cluster%20Centroid%20Undersample.png)
 ###### SMOTTENN Over/Under
